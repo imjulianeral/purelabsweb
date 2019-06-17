@@ -18,10 +18,6 @@ export default class Background extends Component {
                     <div className="sixteen columns">
                         <img src={ logo } alt="purelabs logo" className="logo"/>
                     </div>
-                    <div className="sixteen columns">
-                        <h1>Pure Labs</h1>
-                        <h3>Compañia de desarrollo de software</h3>
-                    </div>
                 </div>
             </section>
         )
