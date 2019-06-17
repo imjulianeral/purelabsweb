@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/purelabsweb/static/css/main.7e6ab60d.chunk.css",
+    "main.js": "/purelabsweb/static/js/main.678d4907.chunk.js",
+    "main.js.map": "/purelabsweb/static/js/main.678d4907.chunk.js.map",
+    "runtime~main.js": "/purelabsweb/static/js/runtime~main.313e3586.js",
+    "runtime~main.js.map": "/purelabsweb/static/js/runtime~main.313e3586.js.map",
+    "static/js/2.59e50447.chunk.js": "/purelabsweb/static/js/2.59e50447.chunk.js",
+    "static/js/2.59e50447.chunk.js.map": "/purelabsweb/static/js/2.59e50447.chunk.js.map",
+    "index.html": "/purelabsweb/index.html",
+    "precache-manifest.5216a572dbe7bb1f8b87f70697794dbd.js": "/purelabsweb/precache-manifest.5216a572dbe7bb1f8b87f70697794dbd.js",
+    "service-worker.js": "/purelabsweb/service-worker.js",
+    "static/css/main.7e6ab60d.chunk.css.map": "/purelabsweb/static/css/main.7e6ab60d.chunk.css.map",
+    "static/media/logo.png": "/purelabsweb/static/media/logo.6b441709.png",
+    "static/media/mobiledev.jpg": "/purelabsweb/static/media/mobiledev.b6aac627.jpg",
+    "static/media/softstore.png": "/purelabsweb/static/media/softstore.0bd05e78.png",
+    "static/media/vision.png": "/purelabsweb/static/media/vision.d3f2531e.png",
+    "static/media/webdev.png": "/purelabsweb/static/media/webdev.4777de9e.png"
+  }
+}
